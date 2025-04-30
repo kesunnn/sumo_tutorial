@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <route id="e1_to_e6" edges="e1 e2 e3 e4 e5 e6"/>
+    <route id="er1_to_e6" edges="er1 e3 e4 e5 e6"/>
+    <vType id="PKW" vClass="passenger"/>
+    <vType id="LKW" vClass="truck" carFollowModel="IDM" tau="1.6" minGap="2.0" accel="0.73" decel="1.67" desiredMaxSpeed="24.59" stepping="0.1"/>
+
+</additional>

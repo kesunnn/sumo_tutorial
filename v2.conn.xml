@@ -1,0 +1,8 @@
+<connections>
+    <connection from="e2" to="e3" fromLane="0" toLane="1" />
+    <connection from="e2" to="e3" fromLane="1" toLane="2" />
+    <connection from="e2" to="e3" fromLane="2" toLane="3" />
+    <connection from="e2" to="e3" fromLane="3" toLane="4" />
+    <connection from="e2" to="e3" fromLane="4" toLane="5" />
+    <connection from="e2" to="e3" fromLane="5" toLane="6" />
+</connections>
